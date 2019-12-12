@@ -1,0 +1,14 @@
+{
+  "name": "css-only",
+  "version": "1.0.0",
+  "description": "css-only-burger-menu",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o public/css --recursive"
+  },
+  "author": "catalingrigorie",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
